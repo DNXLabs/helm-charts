@@ -1,0 +1,1 @@
+helm package charts/* --destination ./source

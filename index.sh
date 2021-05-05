@@ -1,0 +1,1 @@
+helm repo index --url https://charts.dnx.one/ --merge index.yaml .
